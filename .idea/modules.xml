@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cube-goods/cube-goods.iml" filepath="$PROJECT_DIR$/cube-goods/cube-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cube-mall.iml" filepath="$PROJECT_DIR$/cube-mall.iml" />
+    </modules>
+  </component>
+</project>
